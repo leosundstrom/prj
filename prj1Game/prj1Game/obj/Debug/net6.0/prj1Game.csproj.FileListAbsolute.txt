@@ -1,0 +1,15 @@
+C:\VSCode\prj\prj1Game\prj1Game\bin\Debug\net6.0\prj1Game.exe
+C:\VSCode\prj\prj1Game\prj1Game\bin\Debug\net6.0\prj1Game.deps.json
+C:\VSCode\prj\prj1Game\prj1Game\bin\Debug\net6.0\prj1Game.runtimeconfig.json
+C:\VSCode\prj\prj1Game\prj1Game\bin\Debug\net6.0\prj1Game.dll
+C:\VSCode\prj\prj1Game\prj1Game\bin\Debug\net6.0\prj1Game.pdb
+C:\VSCode\prj\prj1Game\prj1Game\obj\Debug\net6.0\prj1Game.csproj.AssemblyReference.cache
+C:\VSCode\prj\prj1Game\prj1Game\obj\Debug\net6.0\prj1Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\VSCode\prj\prj1Game\prj1Game\obj\Debug\net6.0\prj1Game.AssemblyInfoInputs.cache
+C:\VSCode\prj\prj1Game\prj1Game\obj\Debug\net6.0\prj1Game.AssemblyInfo.cs
+C:\VSCode\prj\prj1Game\prj1Game\obj\Debug\net6.0\prj1Game.csproj.CoreCompileInputs.cache
+C:\VSCode\prj\prj1Game\prj1Game\obj\Debug\net6.0\prj1Game.dll
+C:\VSCode\prj\prj1Game\prj1Game\obj\Debug\net6.0\refint\prj1Game.dll
+C:\VSCode\prj\prj1Game\prj1Game\obj\Debug\net6.0\prj1Game.pdb
+C:\VSCode\prj\prj1Game\prj1Game\obj\Debug\net6.0\prj1Game.genruntimeconfig.cache
+C:\VSCode\prj\prj1Game\prj1Game\obj\Debug\net6.0\ref\prj1Game.dll
